@@ -1,10 +1,6 @@
 que honda, este es el primer control de 
 version en git donde empece el curso de
-github en platzi el 21/04/2020.
+github en platzi el 22/04/2020.
 
 este parrafo se ra para el commit 3 para ver 
 los cambios efectuados en el archivo
-
-mi celular necesita carga
-
-mi celular ya esta cargado..... 100%
