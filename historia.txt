@@ -3,6 +3,10 @@ version en git donde empece el curso de
 github en platzi el 22/04/2020.
 
 este parrafo se ra para el commit 3 para ver 
-los cambios efectuados en el archivo
-
+los cambios efectuados en el archivoo
 mi celular necesita carga otra vez
+
+use los comandos gedit para abrir el editor
+de unubtu directamente y escribir esto, ahora 
+solo falta ver si este cambio no es modificado
+en la extencion en lel servidor de github
